@@ -1,2 +1,2 @@
-str = input()
-print(str)
+str1 = input()
+print(str1)
