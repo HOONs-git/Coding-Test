@@ -1,12 +1,11 @@
 str = input()
+for i in str :
+    print(i)
+
+
 '''
-str_sorted = sorted(str)
-for i in range(len(str_sorted)) :
-    print(str_sorted[i])
+sorted_chars = sorted(str)
+for i in range(len(sorted_chars)) :
+    print(sorted_chars[i])
 '''
-'''
-for char in str:
-    print(char)
-'''
-for i in range(len(str)) :
-    print(str[i])
+    
